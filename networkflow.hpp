@@ -1,14 +1,8 @@
 #ifndef NETWORKFLOW_HPP
 #define NETWORKFLOW_HPP
 
-/////////////////////////////////////////////////////////////////////
-/// As a reminder, you are NOT allowed to modify this file.
-/// The autograder will use its own version of netflow.hpp.
-/////////////////////////////////////////////////////////////////////
-
 #include <string>
 #include <vector>
-
 
 /**
  * Each vertex is represented by a unique unsigned ID.
